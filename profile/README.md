@@ -2,6 +2,11 @@
 探索AI边界，链接好奇与创造。
 
 ## 社群
+### Telegram
+
+https://t.me/mind_morbius
+
+### QQ
 点击链接加入群聊【曼比乌斯】：https://qm.qq.com/q/iEZoZdLnNe
 
 群号：1029650226
