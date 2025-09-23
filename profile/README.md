@@ -1,5 +1,9 @@
 # MindMobius
+
 探索AI边界，链接好奇与创造。
+
+![Stars](https://img.shields.io/github/stars/MindMobius?style=for-the-badge&label=组织星标&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MindMobius&style=for-the-badge)
 
 ## 社群
 ### Telegram
